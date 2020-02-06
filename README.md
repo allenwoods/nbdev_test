@@ -1,3 +1,3 @@
 # nbdev template
 
-Test GOW usage
+Test WSL usage
